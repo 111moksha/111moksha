@@ -10,6 +10,7 @@
   <img align="left" alt="Moksha Jain | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=111moksha.111moksha)
 
 <br />
 
