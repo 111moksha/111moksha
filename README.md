@@ -16,7 +16,7 @@
 
 Hi, I'm [Moksha Jain](https://mokshajain.herokuapp.com/), a passionate self-taught Programmer and Web Developer 💻 from India.
 
-  <img align="right" alt="JPG" src="https://github.com/111moksha/111moksha/blob/main/8751.jpg" width="500" height="320" />
+  <img align="right" alt="PNG" src="https://github.com/111moksha/111moksha/blob/main/8751%20copy.png" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
