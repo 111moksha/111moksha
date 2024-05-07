@@ -2,13 +2,13 @@
 
 <a href="https://www.linkedin.com/in/moksha-jain-0ba25b18b/">
   <img align="left" alt="Moksha's LinkedIN" margin-left="10px" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a> </br>
 <a href="https://mokshajain.herokuapp.com">
   <img align="left" alt="Moksha Jain | Twitter" width="30px" src="https://github.com/111moksha/111moksha/blob/main/portfolio.png" />
-</a>
+</a></br>
 <a href="https://twitter.com/MokshaJ00594374">
   <img align="left" alt="Moksha Jain | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+</a></br>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=111moksha.111moksha)
 
