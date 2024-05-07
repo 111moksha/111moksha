@@ -9,7 +9,7 @@ Hi, I'm Moksha Jain, a passionate self-taught Programmer and Developer 💻 from
 **Talking about Personal Stuffs:**
 
 - I’m currently working on something cool :wink:;
-- 💻 I’m keep learning new things; 
+- 💻 I keep learning new things; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@mokshajain](https://www.linkedin.com/in/moksha-jain-0ba25b18b/); 
 - 📝 [Resume](https://drive.google.com/file/d/1YISHnc36HGV8s1tKh9l1JdTuvBfA97K-/view?usp=sharing)
